@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 💜
 
-Meu nome é Liriel Campos da Silva
+Meu nome é Liriel Campos
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
@@ -10,4 +10,5 @@ Meu nome é Liriel Campos da Silva
 
 lirielcampos04@gmail.com
 
-![](https://media1.tenor.com/m/V6y0G_YfqBgAAAAd/goofy-dog-smiling-goofy.gif)
+![cachorro sorindo](https://media1.tenor.com/m/dj9jxfUbDHAAAAAd/dog-smile-dog.gif)
+
